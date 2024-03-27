@@ -1,0 +1,99 @@
+body {
+  background-image: url(/home/kazz/repos/odin-recipes/images/veggies-back.jpg);
+  background-size: auto;
+  background-position: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 113px;
+
+}
+
+.pudding {
+  background-image: url(/home/kazz/repos/odin-recipes/images/pudding-back.png);
+  background-size: contain;
+  background-position: center;
+}
+
+.rolls {
+  background-image: url(/home/kazz/repos/odin-recipes/images/bread-back.png);
+  background-size: contain;
+  background-position: center;
+
+}
+
+.pasta {
+  background-image: url(/home/kazz/repos/odin-recipes/images/pasta-back.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#align {
+  margin-left: -160px;
+  text-align: center;
+}
+
+.margin {
+  margin-left: 560px
+}
+
+.ramenbowl {
+  padding-left: 50px;
+}
+
+.breadrolls {
+  padding-left: 50px;
+}
+
+.chocpud {
+   padding-left: 50px;
+}
+
+h1 {
+  color: #a52a2a;
+  font-size: 150px;
+  font-family: fantasy;
+  font-weight: bold;
+  text-align: center;
+}
+
+.subhead {
+
+  font-size: 100px;
+}
+
+h2 {
+  color: #0b5822;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+h3 {
+  font-size: medium;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ p {
+  font-size: 25px;
+ }
+
+ul {
+  color: #990926;
+  font-size: 25px;
+  }
+
+ol {
+    color: #057c29;
+    font-size: 25px;
+  }
+
+  .index-return {
+    font-size: medium;
+    font-style: italic;
+    
+  }
+.reference {
+  font-size: medium;
+  font-weight: bold;
+  color: rgb(3, 65, 3);
+  text-align: right;
+}
