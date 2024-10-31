@@ -22,6 +22,13 @@ website updated for the exercise under The Cascade in CSS Foundation. Here I hav
 2. Improved the headings and subheadings.
 3. Improved the general layouts.
 4. Added backgrounds for each page, with the sources cited and links added.
-4. Added a return to index link at the bottom of each page.
-4. neatened up the html and css.
+5. Added a return to index link at the bottom of each page.
+6. neatened up the html and css.
+
+Known issues:
+
+1. On live view via github, the background image for the index page dows not show. I tried various things to get it to work but cannot figure out how. 
+2. On the live view, the return to index link backs don't work. I am not sure why as the url is correct.
+
+Both these issues do not show in my live view from vscode. Any help with this would be greatly appreciated.
 
