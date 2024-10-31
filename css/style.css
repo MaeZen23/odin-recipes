@@ -2,6 +2,8 @@ body {
   background-image: url(/home/kazz/repos/odin-recipes/images/veggies-back.jpg);
   background-size: auto;
   background-position: center;
+  min-width: 100%;
+  min-height: 100%;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin-top: 113px;
 
